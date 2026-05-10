@@ -7,7 +7,7 @@ This project combines machine learning, backend orchestration, and analyst-focus
 ---
 
 ## 📺 Demo
-[▶ Watch the demo]([https://www.loom.com/share/12e1d451797e469da07cd50f68cc8bb6](https://drive.google.com/file/d/1ctd5APEJT0JQzUP5Ctb5QlQCYQ9ys9yY/view?fbclid=IwY2xjawRtYTJleHRuA2FlbQIxMABicmlkETFoU3RKekxxM0FjbXBMNkl0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp5zNlRcR7ZFkHFVpJZ5P-EmfBk-OIDUWy8AA8cQPIOD8ge4iAay4XuIucsi_aem_-tgWUBaiAl-QfOLGDOOi5g))
+[▶ Watch the demo](https://drive.google.com/file/d/1ctd5APEJT0JQzUP5Ctb5QlQCYQ9ys9yY/view?fbclid=IwY2xjawRtYTJleHRuA2FlbQIxMABicmlkETFoU3RKekxxM0FjbXBMNkl0c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHp5zNlRcR7ZFkHFVpJZ5P-EmfBk-OIDUWy8AA8cQPIOD8ge4iAay4XuIucsi_aem_-tgWUBaiAl-QfOLGDOOi5g)
 
 ---
 
